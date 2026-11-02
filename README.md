@@ -35,4 +35,58 @@ O site conta com as seguintes páginas:
 - **Cursos:** apresentação de conteúdos e materiais educativos sobre programação e tecnologia.
 - **Contato:** formulário para envio de dúvidas, sugestões e mensagens.
 
-## 🌎 Público
+## 🌎 Público-Alvo
+
+A BF Code é destinada a todas as pessoas interessadas em aprender sobre tecnologia, com atenção especial a grupos historicamente sub-representados no setor tecnológico, como:
+
+- Mulheres cis e mulheres trans;
+- Pessoas negras;
+- Pessoas com deficiência;
+- Pessoas que desejam iniciar uma carreira na área de tecnologia.
+
+## 📂 Estrutura do Projeto
+
+    BFCODE/
+    │
+    ├── index.html
+    │
+    ├── pages/
+    │   ├── sobre.html
+    │   ├── cursos.html
+    │   └── contato.html
+    │
+    ├── img/
+    │
+    └── README.md
+
+## 🚀 Como Executar o Projeto
+
+1. Faça o download ou clone este repositório.
+2. Abra a pasta do projeto no Visual Studio Code.
+3. Localize o ficheiro `index.html`.
+4. Abra o ficheiro no navegador ou utilize a extensão Live Server.
+5. Navegue pelas páginas disponíveis.
+
+## 💜 Nosso Compromisso
+
+A BF Code acredita que a tecnologia deve ser construída por todas as pessoas e para todas as pessoas.
+
+Queremos contribuir para um futuro digital mais diverso, acessível e representativo, no qual o conhecimento seja uma ferramenta de transformação social.
+
+> **Tecnologia não tem género, raça ou limites. O conhecimento deve ser para todas!**
+
+---
+
+## 👩‍💻 Informações Académicas
+
+| Informação | Descrição |
+|---|---|
+| Instituição | Universidade Federal do Recôncavo da Bahia (UFRB) |
+| Curso | Licenciatura em Computação |
+| Disciplina | GCET904 — Desenvolvimento de Software I |
+| Projeto | Projeto I — Desenvolvimento de Software |
+| Ano/Semestre | 2026.2 |
+
+---
+
+**Desenvolvido com 💜 para promover inclusão, conhecimento e oportunidades na tecnologia.**
